@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------------------------
+Student         GIT Command          Example                        What does it do?
+-------------------------------------------------------------------------------------------------
+Sample          git log -n           git log --stat -2              Displays some abbreviated stats for last two commits.
+Kaushik         git checkout         git checkout Kaushik           Changes the HEAD from master to Kaushik in this case 
